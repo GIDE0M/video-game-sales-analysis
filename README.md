@@ -11,7 +11,7 @@ The dataset contains historical sales data of video games, including:
 - Global sales
 - Regional sales
 
-Source: [add dataset link here]
+Source: https://www.kaggle.com/datasets/volodymyrpivoshenko/video-game-sales-dataset?resource=download
 
 ## 🛠 Tools and Technologies
 - Python
@@ -34,6 +34,7 @@ Source: [add dataset link here]
 
 ## ▶ How to Run
 1. Clone the repository
-2. Install dependencies:
+2. Download the dataset and place it inside the data/ folder.
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
