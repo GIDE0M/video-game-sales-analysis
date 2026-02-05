@@ -1,40 +1,34 @@
 # Video Game Sales Analysis
 
-## 📌 Project Overview
-This project performs an exploratory and statistical analysis of a public video game sales dataset.
-The goal is to identify trends, distributions and relationships between different variables using Python.
+## 📌 Objetivo
+Analizar las ventas globales de videojuegos para identificar tendencias por región,
+género y plataforma.
 
 ## 📊 Dataset
-The dataset contains historical sales data of video games, including:
-- Platform
-- Genre
-- Global sales
-- Regional sales
+- Fuente: Kaggle – Video Game Sales
+- Registros: +16.000 juegos
+- Variables principales: Platform, Genre, Year, NA_Sales, EU_Sales, JP_Sales, Global_Sales
 
-Source: https://www.kaggle.com/datasets/volodymyrpivoshenko/video-game-sales-dataset?resource=download
-
-## 🛠 Tools and Technologies
+## 🛠️ Tecnologías
 - Python
-- pandas
-- numpy
-- matplotlib / seaborn
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
 - Jupyter Notebook
 
-## 🔍 Analysis Performed
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Statistical descriptive analysis
-- Hypothesis testing
-- Data visualization
+## 🔍 Análisis realizados
+- Ventas por región
+- Ventas por género
+- Plataformas más exitosas
+- Evolución temporal de ventas
 
-## 📈 Key Insights
-- Sales distribution is highly skewed, with a small number of games generating most of the revenue.
-- Certain genres show statistically significant differences in average sales.
-- Sales patterns vary across platforms and regions.
+## 📈 Principales conclusiones
+- Las ventas globales están dominadas por NA y EU
+- Los géneros más rentables son Action y Sports
+- Las plataformas X y Y lideran en ventas globales
 
-## ▶ How to Run
-1. Clone the repository
-2. Download the dataset and place it inside the data/ folder.
-3. Install dependencies:
-   ```bash
+## ▶️ Cómo ejecutar
+1. Clonar el repositorio
+2. Instalar dependencias
+3. Abrir el notebook
    pip install -r requirements.txt
