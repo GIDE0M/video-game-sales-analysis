@@ -24,8 +24,9 @@ género y plataforma.
 
 ## 📈 Principales conclusiones
 - Las ventas globales están dominadas por NA y EU
-- Los géneros más rentables son Action y Sports
-- Las plataformas X y Y lideran en ventas globales
+- Los géneros más rentables son Action y Shooters
+- Las plataformas GB y NES lideran en ventas globales
+- Las ventas alcanzaron su pico entre 2007 y 2010.
 
 ## ▶️ Cómo ejecutar
 1. Clonar el repositorio
